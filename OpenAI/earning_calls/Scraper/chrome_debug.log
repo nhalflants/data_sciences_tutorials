@@ -1,0 +1,8 @@
+[2894:259:0504/143113.398070:WARNING:chrome_main_delegate.cc(594)] This is Chrome version 112.0.5615.137 (not a warning)
+[2894:259:0504/143113.720054:INFO:chrome_browser_cloud_management_controller.cc(167)] Starting CBCM Controller Initialization
+[2894:259:0504/143113.720091:INFO:chrome_browser_cloud_management_controller.cc(195)] No machine level policy manager exists.
+[2894:37639:0504/143113.792240:ERROR:trust_store_mac.cc(844)] Error parsing certificate:
+ERROR: Failed parsing extensions
+
+[2894:259:0504/143117.578111:INFO:CONSOLE(4)] "initializing Google Publisher Tags", source: https://g.foolcdn.com/static/dubs/ads/js/fool/third_party_ads.217287344bdf.js (4)
+[2894:259:0504/143119.639296:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
